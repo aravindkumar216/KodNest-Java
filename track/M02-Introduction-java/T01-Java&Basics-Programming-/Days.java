@@ -8,7 +8,7 @@ public class Days {
         System.out.print("Enter the Number :");
         int days = sc.nextInt();
         switch (days) {
-            case 123:
+            case 1:
                 System.out.println("Monday");
                 break;
             case 2:
@@ -26,6 +26,6 @@ public class Days {
             default:
                 System.out.println("Error Invalid Day");
         }
-
+        sc.close();
     }
 }
