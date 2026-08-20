@@ -19,7 +19,7 @@ public class Condition {
         } else if (num >= 35) {
             System.out.println("GRADE C");
         } else {
-            System.out.println("Study well bro");
+            System.out.println("Study well bro!");
         }
         scan.close();
     }
