@@ -3,7 +3,7 @@ public class nested {
 
     public static void main(String[] args) {
 
-        /* boolean kfc = true;
+        boolean kfc = true;
         boolean wings = true;
         boolean overPriced = true;
 
@@ -19,10 +19,5 @@ public class nested {
             }
         } else {
             System.out.println("going to other shop");
-        } */
-        int a = 10;
-        int b = --a;
-        System.out.println(a);
-        System.out.println(b);
+        }
     }
-}
